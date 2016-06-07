@@ -4,7 +4,7 @@ My past, present and future conference talk proposals. Inspired by [@akaptur](ht
 
 ### Name convention:
 
-<YYYY>-<CONFERENCE>-<NAME>.md
+\<YYYY\>-\<CONFERENCE\>-\<NAME\>.md
 
 e.g:
 
