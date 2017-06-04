@@ -1,7 +1,7 @@
 Proposer: Yuriy Ackermann
 Year: 2016
 Outcome: Accepted
-Video: 
+Video: https://www.youtube.com/watch?v=Mxk3ueCkZG8
 
 KiwiPyCon Talk Proposal
 ===================
